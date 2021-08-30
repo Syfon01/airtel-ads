@@ -1,0 +1,69 @@
+body{
+  color: #2E2E2E;
+}
+.bg-light-pink{
+  background-color: #F7E5E5;
+}
+.tx-blac{
+  color: #203755;
+}
+.tx-gray{
+  color: #ABAFB3;
+}
+.content-body{
+  background-color: #F2F5F9;
+}
+.bg-sky-blue{
+  background-color: #89B0E3;
+}
+.bg-fade-green{
+  background-color: #C4D89B;
+}
+.green-10{
+  color: #435C0F;
+}
+.bg-pink{
+  background-color: #FFBFBF;
+}
+.pink-10{
+  color: #902145;
+}
+.bg-gray{
+  background-color: #F2F5F9;
+}
+.nav-tabs .nav-link.reg.active{
+  background-color: #8b0707;
+  color: #fff;
+}
+.nav-tabs .nav-link.reg{
+  border-radius: 5px;
+  border: none;
+}
+.act-pad{
+  padding-left: 35px!important;
+  padding-right: 35px!important;
+}
+.card-hei{
+  height: 28rem;
+  overflow-y: auto;
+}
+
+/* X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+  
+  
+}
+
+
+
+@media (min-width: 1300px) and (max-width: 1520.98px) { 
+  .container{
+    max-width: 1240px;
+  }
+ }
+/* extra large screen  */
+ @media (min-width: 1526px) { 
+  .container{
+    max-width: 1340px;
+  }
+ }
