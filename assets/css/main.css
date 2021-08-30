@@ -47,7 +47,9 @@ body{
   height: 28rem;
   overflow-y: auto;
 }
-
+.nav-tabs .nav-item + .nav-item{
+  margin-left: 0px!important;
+}
 /* X-Small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) { 
   
